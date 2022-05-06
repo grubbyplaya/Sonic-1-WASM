@@ -9,6 +9,7 @@
   "short_name": "Sonic 1",
   "start_url": "/index.html"
   "theme_color": "#002eb8",
+  "prefer_related_applications": "false",
   "categories": [],
   "screenshots": [],
   "icons": [
