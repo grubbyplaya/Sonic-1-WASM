@@ -1,5 +1,6 @@
 {
   "background_color": "#ffffff",
+  "description": "",
   "dir": "ltr",
   "display": "standalone",
   "name": "Sonic 1 WASM",
@@ -7,7 +8,9 @@
   "scope": "/",
   "short_name": "Sonic 1",
   "start_url": "/",
-  "theme_color": "#ffffff"
+  "theme_color": "#002eb8",
+  "categories": [],
+  "screenshots": [],
   "icons": [
   {
     "src": "icon/favicon.png",
