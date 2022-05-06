@@ -4,6 +4,7 @@
   "dir": "ltr",
   "display": "standalone",
   "name": "Sonic 1 WASM",
+  "lang": "en-US",
   "orientation": "landscape",
   "scope": "/",
   "short_name": "Sonic 1",
