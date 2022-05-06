@@ -1,27 +1,33 @@
 {
   "background_color": "#ffffff",
+  "description": "Play as Sonic, Tails, or Knuckles as you journey through South Island to defeat Dr. Robotnik in this WebAssembly version of the popular game!",
   "dir": "ltr",
   "display": "standalone",
   "name": "Sonic 1 WASM",
-  "orientation": "any",
+  "orientation": "landscape",
   "scope": "/",
-  "short_name": "Sonic 1",
-  "start_url": "/",
-  "theme_color": "#ffffff"
+  "short_name": "Sonic 1 ",
+  "start_url": "/index.html",
+  "theme_color": "none",
+  "categories": [],
+  "screenshots": [],
   "icons": [
-  {
+    {
+      "src": "favicon.ico",
+      "type": "image/x-icon"
+    }
+    
+    {
     "src": "icon/favicon.png",
     "sizes": "48x48",
     "type": "image/png"
   },
-  
-  {
-    "src": "favicon.ico",
-    "sizes": "32x32"
-  },
+
   {
     "src": "icon/icon.svg",
     "sizes": "any"
   }
-]
+
+  ],
+  "shortcuts": []
 }
