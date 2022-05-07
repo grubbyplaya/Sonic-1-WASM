@@ -13,7 +13,6 @@
   "screenshots": [],
 
   "icons": [
-    …
     {
       "src": "icon/favicon.png",
       "sizes": "512x512",
@@ -26,9 +25,9 @@
       "type": "image/png",
       "purpose": "maskable" // <-- New property value `"maskable"`
     },
-    …
+    
   ],
-  …
+  
 }
   "shortcuts": []
 }
