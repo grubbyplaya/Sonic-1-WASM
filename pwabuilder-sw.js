@@ -100,7 +100,8 @@ var URLS = [
   `${GHPATH}/index.html`,
   `${GHPATH}/index.js`,
   `${GHPATH}/index.wasm`,
-  `${GHPATH}/favicon.ico`
+  `${GHPATH}/favicon.ico`,
+  `${GHPATH}/manifest.webmanifest`
 ]
 
   // If our if() condition is false, then this fetch handler won't intercept the
