@@ -16,10 +16,6 @@
       "src": "favicon.ico",
       "type": "image/x-icon"
     }
-    {
-    "src": "icon/favicon.png",
-    "type": "image/png"
-    }
   ],
   "shortcuts": []
 }
