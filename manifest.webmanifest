@@ -1,6 +1,6 @@
 {
   "background_color": "#ffffff",
-  "description": "Play as Sonic, Tails or Knuckles as you travel throughout South Island to defeat the nefarious Dr. Eggman!",
+  "description": "\"Play as Sonic, Tails or Knuckles as you travel throughout South Island to defeat the nefarious Dr. Eggman!",
   "dir": "ltr",
   "display": "standalone",
   "name": "Sonic 1 WASM",
@@ -8,7 +8,7 @@
   "scope": "/",
   "short_name": "Sonic 1",
   "start_url": "/index.html",
-  "theme_color": "#00298a",
+  "theme_color": "#0300a3",
   "categories": [],
   "screenshots": [],
   "icons": [
