@@ -11,12 +11,24 @@
   "theme_color": "#0300a3",
   "categories": [],
   "screenshots": [],
+
   "icons": [
+    …
     {
       "src": "icon/favicon.png",
-      "sizes": "512x512".
-      "type": "image/x-icon"
-    }
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon/196icon.png",
+      "sizes": "196x196",
+      "type": "image/png",
+      "purpose": "maskable" // <-- New property value `"maskable"`
+    },
+    …
   ],
+  …
+}
   "shortcuts": []
 }
