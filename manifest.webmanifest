@@ -8,16 +8,18 @@
   "scope": "/",
   "short_name": "Sonic 1",
   "start_url": "/index.html",
-  "theme_color": "#030099",
+  "theme_color": "#00298a",
   "categories": [],
   "screenshots": [],
   "icons": [
     {
       "src": "favicon.ico",
       "type": "image/x-icon"
-      "sizes": "512x512",
     }
-
+    {
+    "src": "icon/favicon.png",
+    "type": "image/png"
+    }
   ],
   "shortcuts": []
 }
