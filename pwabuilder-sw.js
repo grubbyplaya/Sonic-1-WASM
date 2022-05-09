@@ -85,7 +85,7 @@ self.addEventListener("fetch", (event) => {
 var GHPATH = '/Sonic-1-WASM';
  
 // Choose a different app prefix name
-var APP_PREFIX = 'sonicx';
+var APP_PREFIX = 'sonicx_';
  
 // The version of the cache. Every time you change any of the files
 // you need to change this version (version_01, version_02…). 
