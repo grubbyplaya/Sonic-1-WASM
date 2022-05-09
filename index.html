@@ -2,7 +2,7 @@
 <html lang="en-us">
 <link rel="manifest" href="./manifest.webmanifest">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="canonical" href="https://grubbyplaya.github.io/Sonic-1-WASM/" />
+  <link rel="canonical" href="https://grubbyplaya.github.io/Sonic-2-WASM/" />
   <head>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -1296,6 +1296,7 @@
     </script>
     <script async type="text/javascript" src="index.js"></script>
     <script async type="text/javascript" src="/pwabuilder-sw.js"></script>
+	<script async type="text/javascript" src="/pwabuilder-sw-register.js"></script>
 
   </body>
   
@@ -1305,7 +1306,7 @@
       if (navigator.serviceWorker) {
         navigator.serviceWorker.register (
           '/pwabuilder-sw.js',
-          {scope: '/'}
+          {scope: '/Sonic-1-WASM'}
         )
       }
   </script>
