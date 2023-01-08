@@ -12,6 +12,7 @@
   "theme_color": "#003aad",
   "categories": [],
   "screenshots": [],
+  "prefer_related_applications": false,
  "icons": [    
       {
           "src": "icon/android-chrome-192x192.png",
