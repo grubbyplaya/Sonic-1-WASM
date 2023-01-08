@@ -1303,20 +1303,6 @@
   </body>
   
 <body>
-  
-  <script>
-      if (navigator.serviceWorker) {
-        navigator.serviceWorker.register (
-          '/Sonic-1-WASM/pwabuilder-sw.js',
-          {scope: '/Sonic-1-WASM'}
-        )
-      }
-  </script>
-  
-  <script type="module">
-   import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
-   const el = document.createElement('pwa-update');
-   document.body.appendChild(el);
-</script>
+
 </body>
 </html>
